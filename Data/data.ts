@@ -1,4 +1,4 @@
-import Clozzet from '@/public/image/JavaScript.png'
+
 
 // export const projectData = [
 //     {

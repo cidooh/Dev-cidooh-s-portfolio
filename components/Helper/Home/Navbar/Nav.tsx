@@ -31,8 +31,10 @@ return() =>{
     <div className={`fixed ${navBg ? 'bg-[#240b39]' : "fixed"} h-[9vh] z-[10] bg-blue-950 w-full transition-all duration-200`}>
         <div className='flex items-center h-full justify-between w-[95%] sm:w-[90%] xl:w-[80%] mx-auto'>
             {/* Logo */}
-            
-            <h1>SIDINE</h1>
+            <h1 className="text-4xl font-bold font-pacifico text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500 drop-shadow-lg hover:cursor-pointer tracking-wide uppercase">
+ SIDINE
+</h1>
+
             
        
 
