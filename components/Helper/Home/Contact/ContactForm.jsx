@@ -49,7 +49,7 @@ const ContactForm = () => {
       <form
         ref={form}
         className="mt-8 block w-full overflow-hidden"
-        onSubmit={sendEmail}
+        onSubmit={(e) =>sendEmail}
       >
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <input
