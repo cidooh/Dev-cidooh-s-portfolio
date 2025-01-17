@@ -19,19 +19,19 @@ const Projects = () => {
     <Image src={project.image} alt="Project1" width={300} height={200} className='w-full'/>
     </Link> */}
 
-    <Link href='' target="_blank">
+    <Link href=' https://cidooh.github.io/cluzzet/' target="_blank">
     <Image src={Clozzet} alt="Project1" width={300} height={200} className='w-full'/>
     </Link>
   </div>
 
   <div className='bg-blue-950 p-6 flex flex-cols rounded-lg hover:scale-105 transition-all duration-300'>
-    <Link href='' target="_blank">
+    <Link href='https://cidooh.github.io/pizarra/' target="_blank">
     <Image src={Pizaara} alt="Project1" width={300} height={200} className='w-full'/>
     </Link>
     </div>
 
     <div className='bg-blue-950 p-6 flex flex-cols rounded-lg hover:scale-105 transition-all duration-300'>
-    <Link href='' target="_blank">
+    <Link href=' https://cidooh.github.io/eventSphere/' target="_blank">
     <Image src={EventSphere} alt="Project1" width={300} height={200} className='w-full'/>
     </Link>
     </div>
