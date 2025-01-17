@@ -31,7 +31,8 @@ return() =>{
     <div className={`fixed ${navBg ? 'bg-[#240b39]' : "fixed"} h-[9vh] z-[10] bg-blue-950 w-full transition-all duration-200`}>
         <div className='flex items-center h-full justify-between w-[95%] sm:w-[90%] xl:w-[80%] mx-auto'>
             {/* Logo */}
-            <p>SIDINE</p>
+            
+            <h1>SIDINE</h1>
             
        
 
