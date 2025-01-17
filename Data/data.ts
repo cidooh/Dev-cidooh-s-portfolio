@@ -22,50 +22,50 @@ export const skillsData = [
     {
         id: 1,
         title:"React",
-        image:"",
+        image:"/public/image/React.png",
         percent:"80%",
     },
     {
         id:2,
         title:"CSS",
-        image:"",
+        image:"/public/image/React.png",
         percent:"95%"
     },
     {
         id:3,
         title:"HTML",
-        image:"",
+        image:"/public/image/React.png",
         percent:"70%"
     },
     {
         id:4,
         title:"Python",
-        image:"",
+        image:"/public/image/Html.png",
         percent:"36%%"
     },
     {
         id:5,
         title:"Django",
-        image:"",
+        image:"/public/image/React.png",
         percent:"30%"
     },
     {
         id:6,
         title:"Firebase",
-        image:"",
+        image:"/public/image/React.png",
         percent:"60%"
     },
     {
         id:7,
         title:"Figma",
-        image:"",
+        image:"/public/image/React.png",
         percent:"70%"
     },    
      
 
 ]
 export const contactData = {
-    phone: "+2541 132 940 11",
+    phone: "+2541 132 940 18",
     email: "example@gmail.com",
     address: "Nairobi, Kenya"
 }

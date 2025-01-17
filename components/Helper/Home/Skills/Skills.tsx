@@ -2,6 +2,7 @@ import SectionHeading from '@/components/SectionHeading'
 import React from 'react'
 import { skillsData } from '@/Data/data'
 import SkillCard from './SkillCard'
+import Image from 'next/image'
 
 const Skills = () => {
   return (
