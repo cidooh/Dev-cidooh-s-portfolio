@@ -3,6 +3,8 @@ import Hero from "./Home/Hero/Hero"
 import About from './Home/About/About'
 import Projects from './Home/Projects/Projects'
 import Skills from './Home/Skills/Skills'
+import Contact from './Home/Contact/Contact'
+import Footer from './Home/Footer/Footer'
 
 const Home = () => {
   return (
@@ -11,6 +13,8 @@ const Home = () => {
         <About/>
         <Projects/>
         <Skills/>
+        <Contact/>
+        <Footer/>
         </div>
   )
 }

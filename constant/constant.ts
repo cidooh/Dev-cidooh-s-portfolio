@@ -1,29 +1,29 @@
 export const navLinks = [
     {
         id:1,
-        url:"#",
+        url:"Home.tsx",
         label:"Home"
     },
     {
         id:2,
-        url:"#",
+        url:"About.tsx",
         label:"About"
     },
 
-    {
-        id:3,
-        url:"#",
-        label:"Services"
-    },
+    // {
+    //     id:3,
+    //     url:"Services.tsx",
+    //     label:"Services"
+    // },
 
     {
         id:4,
-        url:"#",
+        url:"Projects.tsx",
         label:"Projects"
     },
     {
         id:5,
-        url:"#",
+        url:"Contact.tsx",
         label:"Contact"
     }
 
